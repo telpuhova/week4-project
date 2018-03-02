@@ -8,5 +8,6 @@ Finding job and proving my skills is a problem for me, cause I'm shy and new to 
 
 * Research design principles for resumes.
 * Learn about applicant tracking systems.
-* Research open source repos you can contribute to and mention on your resume.
-* Research and add awesome people to your linkedin network.
+* Research open source repos to contribute to and mention on resume.
+* Research tips and popular topics for interviews.
+* Research and add people to linkedin network.
