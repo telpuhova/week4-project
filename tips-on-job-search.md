@@ -29,5 +29,5 @@ https://medium.freecodecamp.org/5-key-learnings-from-the-post-bootcamp-job-searc
   * Prepare for the long game and make sure you take care of yourself.
 
 * installed linkedin chrome extension that gives info about email address. (for future reaching out to people.)
-[!alt text](img/chrome-extension.jpg)
+![alt text](img/chrome-extension.jpg)
 * updated my linkedin profile.
