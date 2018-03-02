@@ -1,0 +1,12 @@
+#Resume and network
+
+##Intro
+
+Finding job and proving my skills is a problem for me, cause I'm shy and new to American job market.
+
+##Goal for this Friday project
+
+* Research design principles for resumes.
+* Learn about applicant tracking systems.
+* Research open source repos you can contribute to and mention on your resume.
+* Research and add awesome people to your linkedin network.
