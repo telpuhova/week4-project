@@ -15,7 +15,7 @@ Finding job and proving my skills is a problem for me, cause I'm shy and new to 
 
 ## Results
 
-By the end of the day I research following topics:
+By the end of the day I researched following topics:
 * [tips on job search](tips-on-job-search.md)
 * [applicant tracking systems](applicant-tracking-systems.md)
 * [contributing to open source](contributing-to-open-source.md)
