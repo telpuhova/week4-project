@@ -12,3 +12,20 @@ Finding job and proving my skills is a problem for me, cause I'm shy and new to 
 * **Research open source repos to contribute to and mention on resume.**
 * **Research tips and popular topics for interviews.**
 * Research and add people to linkedin network.
+
+## Results
+
+By the end of the day I research following topics:
+* [tips on job search](tips-on-job-search.md)
+* [applicant tracking systems](applicant-tracking-systems.md)
+* [contributing to open source](contributing-to-open-source.md)
+
+Also found several open source projects, that I'm interested in:
+https://github.com/telpuhova?tab=stars
+
+## To do in the future
+
+In the future I'm planning to:
+* go through preparing materials, mentioned in "tips on job search". (probably not once)
+* contribute to open source projects I found
+* construct resume, using the information I found
